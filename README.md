@@ -1,5 +1,4 @@
 # anishathakrar.github.io
-# plot
 
 ### COVID-19 Document Clustering
 
